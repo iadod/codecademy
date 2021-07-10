@@ -1,2 +1,2 @@
 # codemy
-a place to out code Ive written during codeademy Full Stack Engineer
+a place to put code Ive written during codeademy Full Stack Engineer learning
