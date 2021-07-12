@@ -12,3 +12,10 @@ if(sale) {
 let hungerLevel = 8
 if (hungerLevel > 7) {console.log('Time to eat!')
 } else {console.log('We can eat later!')}
+
+
+let mood = 'sleepy';
+let tirednessLevel = 9;
+if (mood === 'sleepy' && tirednessLevel > 8) {
+  console.log('time to sleep')
+} else {console.log('not bed time yet')}
